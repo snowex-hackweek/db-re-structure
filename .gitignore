@@ -1,3 +1,9 @@
+# filesystem stuff?
+*.nfs*
+
+# credentials files
+creds.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
