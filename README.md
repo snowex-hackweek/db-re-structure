@@ -24,7 +24,6 @@ With the initial prototype design, the database layout holds as much information
 ### Proposed methods/tools
 Best practices from the industry (Chen, 1976) established a different design, where information gets broken up into multiple tables to increase data integrity, durability, and consistency.
 
-![New structure](https://github.com/snowex-hackweek/db-re-structure/blob/main/diagrams/DB_break_up_tables.png?raw=true)
 
 #### Example
 As a specific SnowEx DB example, the current design holds the location information with every measurement entry in one table. The improvement to this is creating two tables, where every measurement gets associated with one location. As a result, it reduces the amount of redundant data returned and speeds up request times. For the location, it creates integrity as only one standardized form is stored. Using this design also improves indexing capabilities, further speeding up data lookup.
