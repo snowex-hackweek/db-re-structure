@@ -10,7 +10,7 @@ Slack channel: DBRS
 | [Anthony Arendt](https://github.com/aaarendt) | Learn more about how to improve the structure of a relational database  | Experience with SQL queries and using Python and Geopandas for database interfaces | Project Lead |
 | [Joe Meyer](https://github.com/jomey) | Make SnowEx data easier and faster to access | DB design, Software Development | Project Lead |
 | [James Maze](https://github.com/jtmaze) | To learn more about PostgreSQL, relational databases, PostGIS, and SnowEx data in Alaska! | An outside (fresh) perspective on SnowEx data. Background organizing dissimilar datasets in intuitive ways. | Participant |
-| [Ally Detre](https://github.com/allydetre) | | | |
+| [Ally Detre](https://github.com/allydetre) | Learn more about relational database structure, increase proficiency in Python | Wrangling large dataframes, communication and collaboration with other groups/teams | Participant |
 | [Ibrahim Alabi](https://github.com/Ibrahim-Ola) | | | |
 | [Micah Johnson](https://github.com/micahjohnson150) | | | |
 | [Micah Sandusky](https://github.com/micah-prime/micah-prime.github.io) | | | |
