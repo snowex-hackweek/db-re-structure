@@ -55,7 +55,7 @@ create table points_cleaned as
 
 ALTER TABLE points_cleaned
 DROP COLUMN observers,
-DROP COLUMN instruments;  
+DROP COLUMN instrument;  
 
 VACUUM (ANALYZE) points_cleaned;
 
