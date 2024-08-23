@@ -13,7 +13,7 @@ Slack channel: DBRS
 | [Ally Detre](https://github.com/allydetre) | Learn more about relational database structure, increase proficiency in Python | Wrangling large dataframes, communication and collaboration with other groups/teams | Participant |
 | [Ibrahim Alabi](https://github.com/Ibrahim-Ola) | Explore relationships and foreign keys in relational databases | Python, Table Creation in SQLalchemy | Participant/Coder😎 |
 | [Micah Johnson](https://github.com/micahjohnson150) | Explore Potential Improvements, Learn about foregin keys | python, db queries                                                | Coder        |
-| [Micah Sandusky](https://github.com/micah-prime/micah-prime.github.io) | | | |
+| [Micah Sandusky](https://github.com/micah-prime/micah-prime.github.io) | Learn more about database structure. Find cool new tools               | Python, git, cloud stuff                                                           | Punching keys |
 
 ### The problem
 This project aims to accelerate seasonal snow science discoveries using data from the 7-year NASA SnowEx Mission (2017-2023) by reducing technical data access challenges and expanding data accessibility. During the past Hackweek, the Snow Ex DB enabled new research by allowing efficient integration of data across platforms. However, the event participants identified challenges with slow data access times and a steep learning curve for discovering data. This project will address the identified challenges by redesigning the database schema to conform with industry database standards, increasing performance and robustness.
