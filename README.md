@@ -7,9 +7,13 @@ Slack channel: DBRS
 
 | Name | Personal goals | Can help with | Role |
 | ------------- | ------------- | ------------- | ------------- |
-| Anthony A. | Learn more about how to improve the structure of a relational database  | Experience with SQL queries and using Python and Geopandas for database interfaces | Project Lead |
-| Joe M. | Make SnowEx data easier and faster to access | DB design, Software Development | Project Lead |
-| Ibrahim A. | Explore relationships and foreign keys in relational databases  | Python, Table Creation in SQLalchemy | Participant/Coder😎 |
+| [Anthony Arendt](https://github.com/aaarendt) | Learn more about how to improve the structure of a relational database  | Experience with SQL queries and using Python and Geopandas for database interfaces | Project Lead |
+| [Joe Meyer](https://github.com/jomey) | Make SnowEx data easier and faster to access | DB design, Software Development | Project Lead |
+| [James Maze](https://github.com/jtmaze) | To learn more about PostgreSQL, relational databases, PostGIS, and SnowEx data in Alaska! | An outside (fresh) perspective on SnowEx data. Background organizing dissimilar datasets in intuitive ways. | Participant |
+| [Ally Detre](https://github.com/allydetre) | Learn more about relational database structure, increase proficiency in Python | Wrangling large dataframes, communication and collaboration with other groups/teams | Participant |
+| [Ibrahim Alabi](https://github.com/Ibrahim-Ola) | Explore relationships and foreign keys in relational databases | Python, Table Creation in SQLalchemy | Participant/Coder😎 |
+| [Micah Johnson](https://github.com/micahjohnson150) | Explore Potential Improvements, Learn about foregin keys | python, db queries                                                | Coder        |
+| [Micah Sandusky](https://github.com/micah-prime/micah-prime.github.io) | | | |
 
 ### The problem
 This project aims to accelerate seasonal snow science discoveries using data from the 7-year NASA SnowEx Mission (2017-2023) by reducing technical data access challenges and expanding data accessibility. During the past Hackweek, the Snow Ex DB enabled new research by allowing efficient integration of data across platforms. However, the event participants identified challenges with slow data access times and a steep learning curve for discovering data. This project will address the identified challenges by redesigning the database schema to conform with industry database standards, increasing performance and robustness.
