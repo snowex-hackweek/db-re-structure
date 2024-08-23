@@ -5,6 +5,7 @@ Slack channel: DBRS
 
 ### Collaborators
 
+<<<<<<< HEAD
 | Name | Personal goals | Can help with | Role |
 | ------------- | ------------- | ------------- | ------------- |
 | [Anthony Arendt](https://github.com/aaarendt) | Learn more about how to improve the structure of a relational database  | Experience with SQL queries and using Python and Geopandas for database interfaces | Project Lead |
@@ -14,6 +15,17 @@ Slack channel: DBRS
 | [Ibrahim Alabi](https://github.com/Ibrahim-Ola) | | | |
 | [Micah Johnson](https://github.com/micahjohnson150) | | | |
 | [Micah Sandusky](https://github.com/micah-prime/micah-prime.github.io) | | | |
+=======
+| Name | Personal goals                                                         | Can help with                                                                      | Role         |
+| ------------- |------------------------------------------------------------------------|------------------------------------------------------------------------------------|--------------|
+| [Anthony Arendt](https://github.com/aaarendt) | Learn more about how to improve the structure of a relational database | Experience with SQL queries and using Python and Geopandas for database interfaces | Project Lead |
+| [Joe Meyer](https://github.com/jomey) | Make SnowEx data easier and faster to access                           | DB design, Software Development                                                    | Project Lead |
+| [James Maze](https://github.com/jtmaze) |                                                                        |                                                                                    |              |
+| [Ally Detre](https://github.com/allydetre) |                                                                        |                                                                                    |              |
+| [Ibrahim Alabi](https://github.com/Ibrahim-Ola) |                                                                        |                                                                                    |              |
+| [Micah Johnson](https://github.com/micahjohnson150) | Explore Potential Improvements, Learn about foregin keys | python, db queries                                                | Coder        |
+| [Micah Sandusky](https://github.com/micah-prime/micah-prime.github.io) |                                                                        |                                                                                    |              |
+>>>>>>> fcc2f31c7f69679dd013a903d7d0749f25127f30
 
 ### The problem
 This project aims to accelerate seasonal snow science discoveries using data from the 7-year NASA SnowEx Mission (2017-2023) by reducing technical data access challenges and expanding data accessibility. During the past Hackweek, the Snow Ex DB enabled new research by allowing efficient integration of data across platforms. However, the event participants identified challenges with slow data access times and a steep learning curve for discovering data. This project will address the identified challenges by redesigning the database schema to conform with industry database standards, increasing performance and robustness.
