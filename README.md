@@ -9,6 +9,7 @@ Slack channel: DBRS
 | ------------- | ------------- | ------------- | ------------- |
 | Anthony A. | Learn more about how to improve the structure of a relational database  | Experience with SQL queries and using Python and Geopandas for database interfaces | Project Lead |
 | Joe M. | Make SnowEx data easier and faster to access | DB design, Software Development | Project Lead |
+| Ibrahim A. | Explore relationships and foreign keys in relational databases  | Python, Table Creation in SQLalchemy | Participant/Coder😎 |
 
 ### The problem
 This project aims to accelerate seasonal snow science discoveries using data from the 7-year NASA SnowEx Mission (2017-2023) by reducing technical data access challenges and expanding data accessibility. During the past Hackweek, the Snow Ex DB enabled new research by allowing efficient integration of data across platforms. However, the event participants identified challenges with slow data access times and a steep learning curve for discovering data. This project will address the identified challenges by redesigning the database schema to conform with industry database standards, increasing performance and robustness.
